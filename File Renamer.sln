@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileRenamer", "File Renamer\FileRenamer.csproj", "{77E51CDB-8541-439D-B59B-9412151ECA69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Renamer", "File Renamer\File Renamer.csproj", "{77E51CDB-8541-439D-B59B-9412151ECA69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

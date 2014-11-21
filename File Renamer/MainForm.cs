@@ -95,7 +95,6 @@ namespace File_Renamer
 
         private void Start()
         {
-
             currentFile = null;
             currentDirectory = null;
             btnBrowse.Enabled = btnGo.Enabled = false;
